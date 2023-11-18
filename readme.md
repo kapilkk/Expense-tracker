@@ -14,4 +14,4 @@ Next goto your firebase' project settings to get the configurations/keys. Copy t
 
 # Screenshot
 
-![Alt text](image.png)
+![Alt text](assets/image.png)
